@@ -56,7 +56,7 @@
 <div align="center">
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gangulel&label=Profile%20views&color=0e75b6&style=flat" alt="gangulel" /> </p>
-(https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 </div>
 
 
