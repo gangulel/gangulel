@@ -46,7 +46,7 @@
 <p><a href="https://www.buymeacoffee.com/Dishma Gangulel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Dishma Gangulel" /></a></p><br><br>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2>Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
