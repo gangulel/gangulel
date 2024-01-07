@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dishma Gangulel</h1>
-<h3 align="center">A passionate frontend developer Student|Designer|Programmer|Web Developer|Freelancer|Debater</h3>
+<h3 align="center">Student|Designer|Programmer|Web Developer|Freelancer|Debater</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangulel&label=Profile%20views&color=0e75b6&style=flat" alt="gangulel" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Engineering, UI UX Design**
 
-- 📝 I regularly write articles on [UI UX Design](UI UX Design)
+- 📝 I regularly write articles on UI UX Design
 
 - 💬 Ask me about **UI UX Design**
 
