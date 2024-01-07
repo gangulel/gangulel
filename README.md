@@ -1,4 +1,7 @@
-<img src="">
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <h1 align="center">Hi 👋, I'm Dishma Gangulel</h1>
 
 <h3 align="center">Student,Designer,Programmer,Web Developer,Freelancer,Debater</h3>
