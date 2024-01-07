@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dishma Gangulel</h1>
+<h1 align="center">Hi 👋, I'm Dishma Gangulel<br>
+<p>designer</p>
+</h1>
 78966
 <h3 align="center">Student,Designer,Programmer,Web Developer,Freelancer,Debater</h3>
 
