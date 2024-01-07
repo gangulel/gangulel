@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Dishma Gangulel, Student Ui Ux Designer Developer.
 
 <!--
 **gangulel/gangulel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
