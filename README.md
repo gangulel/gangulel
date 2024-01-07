@@ -1,4 +1,5 @@
-<h1 align="center"> Hi, I'm Dishma Gangulel, Student Ui Ux Designer Developer.</h1>
+<h1 align="center"> Hi, I'm Dishma Gangulel,</h1>
+<h3>Student Ui Ux Designer Developer.</h3>
 
 
 **gangulel/gangulel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
