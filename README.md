@@ -44,7 +44,7 @@
     <h2>Connect With Me🤝</h2>
   </ul>
   <p align="center">
-<a href="https://linkedin.com/in/dishma gangulel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishma gangulel" height="30" width="40" /></a><h1>|</h1>
+<a href="https://linkedin.com/in/dishma gangulel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishma gangulel" height="30" width="40" /></a><p>|</p>
 <a href="https://fb.com/dishma gangulel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dishma gangulel" height="30" width="40" /></a>
 <a href="https://instagram.com/dishma ganguled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishma ganguled" height="30" width="40" /></a>
 <a href="https://www.behance.net/dishma gangulel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dishma gangulel" height="30" width="40" /></a>
