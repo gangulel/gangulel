@@ -1,9 +1,9 @@
-<img src="https://www.freepik.com/free-vector/computer-animation-abstract-concept-illustration_11668631.htm#query=gif&position=0&from_view=search&track=sph&uuid=23c03e27-202a-455b-b39d-f38b5b433a7a">
+<img src="">
 <h1 align="center">Hi 👋, I'm Dishma Gangulel</h1>
 
 <h3 align="center">Student,Designer,Programmer,Web Developer,Freelancer,Debater</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gangulel&label=Profile%20views&color=0e75b6&style=flat" alt="gangulel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gangulel&label=Profile%20views&color=0e75b6&style=flat" alt="gangulel" /> </p>
 
 - 🔭 I’m currently working on **University Moratuwa, Faculty of IT**
 
