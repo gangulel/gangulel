@@ -14,7 +14,7 @@
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gangulel&label=Profile%20views&color=0e75b6&style=flat" alt="gangulel" /> </p>
+
 
 - 🔭 I’m currently working on **University Moratuwa, Faculty of IT**
 
@@ -67,7 +67,7 @@
 [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gangulel&label=Profile%20views&color=0e75b6&style=flat" alt="gangulel" /> </p>
 
 
