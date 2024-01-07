@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/827787/screenshots/5931262/ux-design.gif">
+<img src="https://www.freepik.com/free-vector/computer-animation-abstract-concept-illustration_11668631.htm#query=gif&position=0&from_view=search&track=sph&uuid=23c03e27-202a-455b-b39d-f38b5b433a7a">
 <h1 align="center">Hi 👋, I'm Dishma Gangulel</h1>
 
 <h3 align="center">Student,Designer,Programmer,Web Developer,Freelancer,Debater</h3>
