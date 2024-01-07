@@ -47,15 +47,11 @@
 
 <div>
   <ul align="center">
-    <summary><h2>Connect With Me🤝</h2></summary>
+    <h2>Connect With Me🤝</h2>
   </ul>
 </div>
 
-<!--icons and links-->
 
-
-
-<!--profile visit count-->
 <div align="center">
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gangulel&label=Profile%20views&color=0e75b6&style=flat" alt="gangulel" /> </p>
