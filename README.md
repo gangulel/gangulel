@@ -3,7 +3,7 @@
 
 <h3 align="center">Student,Designer,Programmer,Web Developer,Freelancer,Debater</h3>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&vCenter=true&width=700&height=60&lines=Programmer;Gamer;Web3+Analyzer+-+anjanaed.eth;Tech+Lover;" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&vCenter=true&width=700&height=60&lines=Student;Designer;Programmer;Web Developer;Freelancer;Debater;" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gangulel&label=Profile%20views&color=0e75b6&style=flat" alt="gangulel" /> </p>
