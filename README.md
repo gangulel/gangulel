@@ -26,7 +26,8 @@
 
 - 📫 How to reach me **ganguleldishma@gmail.com**
 
-- ⚡ Fun fact **"There is a wonderful art or pattern in everything"**
+- ⚡ Fun fact **"There is no "cloud."
+                  It's just someone else's computer!"**
 
 
 
