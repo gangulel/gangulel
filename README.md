@@ -50,9 +50,9 @@
 </div>
 <hr>
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chamilkamihiraj2002&theme=2077" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chamilkamihiraj2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamilkamihiraj2002&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=My%20Contribution" height="300" alt="activity-graph graph"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gangule&theme=2077" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gangule&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gangule&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=My%20Contribution" height="300" alt="activity-graph graph"  />
 </div>
 
 
