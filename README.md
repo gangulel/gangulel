@@ -49,17 +49,6 @@
 </p>
 </div>
 <hr>
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gangule&theme=2077" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gangule&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gangule&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=My%20Contribution" height="300" alt="activity-graph graph"  />
-</div>
 
-
-<div align="center">
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gangulel&label=Profile%20views&color=0e75b6&style=flat" alt="gangulel" /> </p>
-
-</div>
 
 
