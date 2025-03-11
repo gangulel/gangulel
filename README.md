@@ -50,14 +50,16 @@
   <div display="flex">
   <h3 align="center">Stars</h3>
   <div align="center">
-  <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gangulel&theme=date-night" alt="gangulel" /></p>
+    <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gangulel&theme=date-night" alt="gangulel" /></p>
+    <img alt="Isha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gangulel&show_icons=true&theme=radical">
   </div>
-  <h3 align="center">Statistics</h3>
-  <div align="center">
-  <a href="https://github.com/gangulel" align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gangulel&theme=2077" height="180em" />
+
+ 
   </div>
+ 
+</p>
 </div>
+
 
 
 
