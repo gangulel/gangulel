@@ -66,14 +66,6 @@
 
 </div>
 
-
----
-
-
-
-
-
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -93,68 +85,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gangulel&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" align="middle" />
 </div>
 
-## 🎯 Current Focus
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.icons8.com/fluency/96/000000/learning.png" width="60" height="60" alt="learning"/>
-        <br><strong>Currently Learning</strong><br>
-        Advanced React Patterns<br>
-        Cloud Architecture (AWS)<br>
-        Microservices Architecture
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.icons8.com/fluency/96/000000/project.png" width="60" height="60" alt="project"/>
-        <br><strong>Working On</strong><br>
-        E-commerce Platform<br>
-        UI/UX Design System<br>
-        Open Source Contributions
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dishma-gangulel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganguleldishma@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/dishma-gangulel)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dishma-gangulel)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dishma-gangulel)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/gangulel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dishma-portfolio.com)
-
-</div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-## 📈 Visitor Count
-
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/{gangulel}/count.svg)
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
-</div>
-
----
 
 <div align="center">
   <b>⭐️ From <a href="https://github.com/gangulel">Dishma Gangulel</a></b><br>
