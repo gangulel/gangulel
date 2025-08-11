@@ -86,7 +86,3 @@
 </div>
 
 
-<div align="center">
-  <b>⭐️ From <a href="https://github.com/gangulel">Dishma Gangulel</a></b><br>
-  <i>Let's build something amazing together!</i>
-</div>
