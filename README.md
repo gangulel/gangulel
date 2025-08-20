@@ -53,14 +53,14 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Photoshop](https://skillicons.dev/icons?i=ps)
-![Illustrator](https://skillicons.dev/icons?i=ai)
-![Blender](https://skillicons.dev/icons?i=blender)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Photoshop](https://skillicons.dev/icons?i=ps)
+![Illustrator](https://skillicons.dev/icons?i=ai)
+![Blender](https://skillicons.dev/icons?i=blender)
 
 </div>
 
