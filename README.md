@@ -47,7 +47,6 @@
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
@@ -61,7 +60,6 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
-![Unity](https://skillicons.dev/icons?i=unity)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 </div>
