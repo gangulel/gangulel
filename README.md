@@ -49,7 +49,6 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
