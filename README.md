@@ -59,7 +59,7 @@
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Photoshop](https://skillicons.dev/icons?i=ps)
 ![Illustrator](https://skillicons.dev/icons?i=ai)
-![Blender](https://skillicons.dev/icons?i=blender)
+
 
 </div>
 
