@@ -17,7 +17,7 @@
 <br clear="right"/>
 
 
-## 👨‍💻 About Me.
+## 👨‍💻 About Me
 
 <p align="center">
   I’m a passionate <b>Full Stack Developer</b> and <b>UI/UX Designer</b> pursuing a BSc in Information Technology & Management at the University of Moratuwa.  
