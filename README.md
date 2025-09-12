@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tool  
+## 🛠️ Tech Stack & Tools  
 <div align="center">
 
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
