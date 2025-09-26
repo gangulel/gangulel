@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Welcome to My Digital Spac
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Welcome to My Digital Space
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Dishma%20Gangulel&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Creating%20Digital%20Experiences%20|%20One%20Line%20at%20a%20Time&descAlignY=55&descSize=18" width="100%" />
